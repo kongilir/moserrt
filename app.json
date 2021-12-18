@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/kudooe/modiuet",
-  "repository": "https://github.com/kudooe/modiuet",
+  "website": "https://github.com/kongilir/moserrt",
+  "repository": "https://github.com/kongilir/moserrt",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
